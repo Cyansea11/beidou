@@ -15,8 +15,8 @@
     "react-chartist": "^0.13.1",
     "react-dom": "^16.2.0",
     "react-google-maps": "^9.4.5",
-    "react-router-dom": "^4.2.2",
-    "react-swipeable-views": "^0.12.12"
+    "react-router-dom": "^6.0.0",
+    "react-swipeable-views": "^0.13.5"
   },
   "scripts": {
     "start": "beidou start",
