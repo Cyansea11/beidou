@@ -31,7 +31,7 @@
     "@babel/preset-stage-2": "^7.0.0",
     "@babel/preset-typescript": "^7.0.0",
     "@babel/register": "^7.0.0",
-    "@babel/runtime": "^7.0.0",
+    "@babel/runtime": "^7.26.10",
     "babel-loader": "^7.1.5",
     "babel-preset-beidou-client": "^2.1.0",
     "beidou": "^2.3.0",
