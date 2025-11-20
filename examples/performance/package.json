@@ -42,7 +42,7 @@
     "classnames": "^2.2.3",
     "co": "^4.6.0",
     "create-react-class": "^15.5.0",
-    "css-loader": "~0.23.1",
+    "css-loader": "~1.0.0",
     "electrode-react-ssr-caching": "^0.1.6",
     "enums": "^1.0.0",
     "extend": "^3.0.0",
