@@ -56,7 +56,7 @@
     "beidou": "^2.3.0",
     "beidou-cli": "^2.3.0",
     "classnames": "^2.2.6",
-    "egg-sequelize": "^4.3.1",
+    "egg-sequelize": "^6.0.0",
     "history": "^4.7.2",
     "mobx": "^5.8.0",
     "mobx-react": "^5.4.3",
@@ -70,7 +70,7 @@
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
     "sass-loader": "^7.1.0",
-    "sequelize": "^5.15.1",
+    "sequelize": "^6.6.5",
     "sqlite3": "^4.0.6"
   },
   "browserslist": [
