@@ -22,7 +22,7 @@
     "@babel/register": "^7.0.0",
     "babel-preset-beidou-server": "^2.0.1",
     "babel-register": "^6.26.0",
-    "jsdom": "^9.8.3"
+    "jsdom": "^16.6.0"
   },
   "devDependencies": {
     "egg-bin": "^4.0.0",
