@@ -34,7 +34,7 @@
     "rax-webpack-plugin": "^0.6.5",
     "stylesheet-loader": "^0.6.5",
     "url-loader": "^1.1.2",
-    "webpack": "^4.27.1"
+    "webpack": "^5.0.0"
   },
   "peerDependencies": {
     "rax": "^0.6.0",
