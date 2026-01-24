@@ -56,13 +56,13 @@
     "beidou": "^2.3.0",
     "beidou-cli": "^2.3.0",
     "classnames": "^2.2.6",
-    "egg-sequelize": "^4.3.1",
+    "egg-sequelize": "^6.0.0",
     "history": "^4.7.2",
     "mobx": "^5.8.0",
     "mobx-react": "^5.4.3",
     "mobx-react-router": "^4.0.5",
     "moment": "^2.23.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^9.0.0",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
@@ -70,8 +70,8 @@
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
     "sass-loader": "^7.1.0",
-    "sequelize": "^5.15.1",
-    "sqlite3": "^4.0.6"
+    "sequelize": "^6.1.0",
+    "sqlite3": "^5.0.3"
   },
   "browserslist": [
     ">1%",
