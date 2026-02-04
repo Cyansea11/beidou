@@ -18,7 +18,7 @@
     "check-npm-registry": "^1.0.4",
     "cross-spawn": "^6.0.4",
     "debug": "^3.1.0",
-    "egg-bin": "^4.4.0",
+    "egg-bin": "^5.0.0",
     "egg-scripts": "^2.5.1",
     "egg-ts-helper": "^1.20.0",
     "glob": "^7.1.2",
@@ -29,7 +29,7 @@
     "mkdirp": "^0.5.1",
     "npm-updater": "^3.0.3",
     "rimraf": "^2.6.2",
-    "tar": "^4.4.2",
+    "tar": "^7.5.7",
     "urllib": "^2.25.4"
   },
   "boilerplates": {
